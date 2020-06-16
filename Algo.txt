@@ -6,4 +6,5 @@
 6.  Answer the door
 7.  Pay the driver
 8.  Take the pizza
-9.  Eat the pizza
+9.  Close the door
+10.  Eat the pizza
