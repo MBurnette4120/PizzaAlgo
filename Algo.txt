@@ -10,6 +10,7 @@
 5.  Wait for delivery
     5a.  Look out the window
     5b.  Grab my wallet
+        5b1.  Random changes for no reason
 6.  Answer the door
     6a.  Inspect the pizza
 7.  Pay the driver
