@@ -4,6 +4,8 @@
     2b.  Papa John's
     2c.  Marco's
 3.  Call pizza place
+    3a.  Find phone number
+    3b.  Search for a deal
 4.  Order pizza
 5.  Wait for delivery
     5a.  Look out the window
@@ -18,4 +20,5 @@
     9c.  Get drinks
 10.  Eat the pizza
 11.  Clean up
+
 
