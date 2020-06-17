@@ -12,6 +12,7 @@
 9.  Close the door
     9a.  Call the kids
     9b.  Get some plates
+    9c.  Get drinks
 10.  Eat the pizza
 11.  Clean up
 
